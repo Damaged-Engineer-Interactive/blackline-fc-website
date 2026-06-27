@@ -31,7 +31,7 @@
 <div class="page">
 	<main class="hero">
 		<h1>
-			<span class="accent">A</span>zin Links
+			<span class="accent">A</span>zin
 		</h1>
 
 		<p class="description">
